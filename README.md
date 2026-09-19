@@ -16,7 +16,7 @@
 ## 👋 Sobre mí
 
 - 🎓 Estudio la **Tecnicatura en Programación** y trabajo en el **área administrativa**. Sé lo que es pelear con planillas y procesos repetitivos, y ahora quiero automatizarlos con código.
-- 📍 Vivo en **Buenos Aires, Argentina** 🇦🇷.
+- 📍 Vivo en **Buenos Aires, Argentina**.
 - 🎯 Busco mi **primer trabajo o prácticas como Desarrollador Junior**.
 - 🎮 🎵 📷 Fuera de la pantalla: videojuegos, música y fotografía.
 
